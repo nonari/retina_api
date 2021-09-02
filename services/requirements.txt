@@ -1,0 +1,7 @@
+flask
+flask_httpauth
+Pillow
+scikit-image
+opencv-python
+python-dotenv
+requests
